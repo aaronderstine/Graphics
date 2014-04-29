@@ -1,0 +1,4 @@
+To load a configuration file select:
+   File->Load Config File
+
+Navigate to the configuration file location and select file.
